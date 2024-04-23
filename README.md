@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Osiosi44
 - 👀 I’m interested in software programing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on coding that
+     require the knowledge of c++, java, and c#
+     programming languages
+- 📫 How to reach me osamasufian16@gmail.com
 
 <!---
 Osiosi44/Osiosi44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
