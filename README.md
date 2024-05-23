@@ -2,7 +2,7 @@
 - 👀 I’m interested in software programing
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on coding that
-     require the knowledge of c++, java, and c#
+     require the knowledge of C++, Java, and C#
      programming languages
 - 📫 How to reach me osamasufian16@gmail.com
 
